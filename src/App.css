@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #252525;
+	color: #EFC5AF;
+  font-family: 'Cinzel', serif;
+}
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+
+
+
